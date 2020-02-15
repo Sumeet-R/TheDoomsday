@@ -1,5 +1,5 @@
 # TheDoomsday
-<h4> A powerfull packet generator tool which utilises muli-threading to test DOS sustainablity of your web application services.</h4>
+<h4> Test DOS sustainablity of your web application services with this simple python tool to send large packets at faster rates with multithreading capability.</h4>
 
 <b>First Thing First</b><br>
 This keylogger project is created for those who would like to understand the working and behaviour of keyloggers, reverse engineer the compiled version of the code to find kill-switches and build IOCs/Signatures, ethically test on systems for the purpose of Ethical Hacking/Penetration Testing such as testing the bypasses and detection by EDR, SIEM, HIPS etc.
