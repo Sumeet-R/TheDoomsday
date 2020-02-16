@@ -6,7 +6,7 @@ This project is created for those who would like to test how much their web appl
 <br>
 Note that you atleast require 10 or more machines to run this program simultaneously to see the DDOS impact on your application. 
 <br>
-The program should not be used for any illegal activities such as launching DOS/DDOS attacks to public website without owners permission.
+The program should not be used for any illegal activities such as launching DOS/DDOS attacks on public website without owners permission.
 
 <b>DOS Attack Methods</b><br>
 1) UDP Blast
