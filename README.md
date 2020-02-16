@@ -1,5 +1,6 @@
 # TheDoomsday
-<h4> Test DOS sustainability of your web application services with this simple python tool to send large packets at faster rates with multithreading capability.</h4>
+<h4> Test DOS sustainablity of your web application services with this simple python tool that generates and sends large packets at faster rates with multi-threading capability.
+</h4>
 
 <b>First Thing First</b><br>
 This project is created for those who would like to test how much their web application is capable of maintaining availablity during basic DOS attacks. 
