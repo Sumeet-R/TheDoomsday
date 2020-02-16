@@ -12,7 +12,7 @@ The program should not be used for any illegal activities such as launching DOS/
 1) UDP Blast
 2) HTTP POST DOS
 3) ICMP Flood
-4) ....more to come....
+4) ....more to arrive....
 
 <br>
 <b> Short working demonstration of HackTheKeyBoard </b><br>
