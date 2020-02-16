@@ -15,7 +15,7 @@ The program should not be used for any illegal activities such as launching DOS/
 4) ....more to arrive....
 
 <br>
-<b> Short working demonstration of HackTheKeyBoard </b><br>
+<b> Short working demonstration</b><br>
 https://youtu.be/m3-7eGeIjh0
 <br><br>
 
