@@ -8,6 +8,11 @@ Note that you atleast require 10 or more machines to run this program simultaneo
 <br>
 The program should not be used for any illegal activities such as launching DOS/DDOS attacks to public website without owners permission.
 
+<b>DOS Attack Methods</b><br>
+1) UDP Blast
+2) HTTP POST DOS
+3) ICMP Flood
+4) ....more to come....
 
 <br>
 <b> Short working demonstration of HackTheKeyBoard </b><br>
